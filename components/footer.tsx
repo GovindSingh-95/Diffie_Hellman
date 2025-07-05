@@ -2,7 +2,7 @@
 
 import { Card, CardContent } from "@/components/ui/card"
 import { Separator } from "@/components/ui/separator"
-import { Mail, Linkedin, Github } from "lucide-react"
+import { Mail, Linkedin, Github, Globe } from "lucide-react"
 
 export function Footer() {
   return (
@@ -22,15 +22,19 @@ export function Footer() {
               <div className="flex justify-center items-center gap-6 text-sm text-slate-600">
                 <div className="flex items-center gap-2">
                   <Mail className="h-4 w-4" />
-                  <span>govind.s9551@gmail.com</span>
+                  <span>your.email@example.com</span>
                 </div>
                 <div className="flex items-center gap-2">
                   <Linkedin className="h-4 w-4" />
-                  <span>linkedin.com/in/govindsingh95</span>
+                  <span>linkedin.com/in/yourprofile</span>
                 </div>
                 <div className="flex items-center gap-2">
                   <Github className="h-4 w-4" />
-                  <span>github.com/GovindSingh-95</span>
+                  <span>github.com/yourusername</span>
+                </div>
+                <div className="flex items-center gap-2">
+                  <Globe className="h-4 w-4" />
+                  <span>yourportfolio.com</span>
                 </div>
               </div>
 

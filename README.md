@@ -114,7 +114,7 @@ The application follows a modular architecture with:
 
 \`\`\`bash
 # Clone the repository
-git clone https://github.com/GovindSingh-95/diffie-hellman-demo.git
+git clone https://github.com/yourusername/diffie-hellman-demo.git
 
 # Install dependencies
 npm install
@@ -193,9 +193,10 @@ This project demonstrates proficiency in:
 
 ## 📞 Contact
 
-- **Email**: govind.s9551@gmail.com
-- **LinkedIn**: [Govind Singh](https://www.linkedin.com/in/govindsingh95)
-- **GitHub**: [GovindSingh-95](https://github.com/GovindSingh-95)
+- **Email**: your.email@example.com
+- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+- **Portfolio**: [Your Portfolio Website](https://yourportfolio.com)
+- **GitHub**: [Your GitHub Profile](https://github.com/yourusername)
 
 ## 📄 License
 
